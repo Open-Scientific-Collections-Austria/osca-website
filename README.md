@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/150/000000/angularjs.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <i>generated from juanmesa2097/angular-boilerplate an angular starter for enterprise-grade front-end projects, built under a clean architecture 
+  <i>generated from and based on <a href="https://github.com/juanmesa2097/angular-boilerplate/">https://github.com/juanmesa2097/angular-boilerplate/</a>    <br/>
+    an angular starter for enterprise-grade front-end projects, built under a clean architecture 
     <br> that helps to scale and maintain a fast workflow.</i>
   <br>
 </p>
@@ -16,7 +17,7 @@
 <p align="center">
   <a href="CONTRIBUTING.md">Contributing Guidelines</a>
   ·
-  <a href="https://github.com/juanmesa2097/angular-boilerplate/issues">Submit an Issue</a>
+  <a href="https://github.com/Open-Scientific-Collections-Austria/osca-website/issues">Submit an Issue</a>
   <br>
   <br>
 </p>
@@ -45,6 +46,8 @@
 - General
   - home
   - not-found
+
+<i>Upcoming:
 - Auth
   - sign-in
   - sign-up
@@ -66,7 +69,8 @@
   - overview
 - Features
   - dashboard
-
+</i>
+  
 ## 🧱 Self-contained components
 
 - footer
