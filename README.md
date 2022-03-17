@@ -1,9 +1,9 @@
-<h1 align="center">Angular Boilerplate</h1>
+<h1 align="center">The website of the Consortium for Open Scientific Collections in Austria</h1>
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/150/000000/angularjs.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
-  <i>Angular starter for enterprise-grade front-end projects, built under a clean architecture 
+  <i>generated from juanmesa2097/angular-boilerplate an angular starter for enterprise-grade front-end projects, built under a clean architecture 
     <br> that helps to scale and maintain a fast workflow.</i>
   <br>
 </p>
