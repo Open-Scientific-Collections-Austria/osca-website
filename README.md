@@ -1,16 +1,16 @@
-<h1 align="center">The website of the Consortium for Open Scientific Collections in Austria</h1>
+<h1 align="center">The website of the<br/> Consortium for Open Scientific Collections in Austria (OSCA)</h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/150/000000/angularjs.png" alt="angular-logo" width="120px" height="120px"/>
-  <br>
-  <i>generated from and based on <a href="https://github.com/juanmesa2097/angular-boilerplate/">https://github.com/juanmesa2097/angular-boilerplate/</a>    <br/>
-    an angular starter for enterprise-grade front-end projects, built under a clean architecture 
-    <br> that helps to scale and maintain a fast workflow.</i>
+  <img src="https://avatars.githubusercontent.com/u/101812212?s=200&v=4" alt="angular-logo" width="120px" height="120px"/>
+  <br><br>
+  <i>An Angular App generated from and based on <a href="https://github.com/juanmesa2097/angular-boilerplate/">https://github.com/juanmesa2097/angular-boilerplate/</a>    <br/>
+    (an angular starter for enterprise-grade front-end projects, built under a clean architecture 
+    <br> that helps to scale and maintain a fast workflow.)</i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://angularboilerplate.vercel.app"><strong>https://angularboilerplate.vercel.app</strong></a>
+  <a href="https://osca.science"><strong>https://osca.science</strong></a>
   <br>
 </p>
 
