@@ -1,7 +1,8 @@
 <h1 align="center">The website of the<br/> Consortium for Open Scientific Collections in Austria (OSCA)</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/101812212?s=200&v=4" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://avatars.githubusercontent.com/u/101812212?s=200&v=4" alt="osca-logo" width="120px" height="120px"/>
+  <i>logo created by Brandy Brandstätter</i>
   <br><br>
   <i>An Angular App generated from and based on <a href="https://github.com/juanmesa2097/angular-boilerplate/">https://github.com/juanmesa2097/angular-boilerplate/</a>    <br/>
     (an angular starter for enterprise-grade front-end projects, built under a clean architecture 
