@@ -1,7 +1,7 @@
 <h1 align="center">The website of the<br/> Consortium for Open Scientific Collections in Austria (OSCA)</h1>
 
 <p align="center">
-  <img src="https://osca.science/OSCA-Logo.svg" alt="osca-logo" />
+  <img src="https://osca.science/OSCA-Logo.svg" alt="osca-logo" /><br>
   <i>logo created by Brandy Brandstätter</i>
   <br><br>
   <i>An Angular App generated from and based on <a href="https://github.com/juanmesa2097/angular-boilerplate/">https://github.com/juanmesa2097/angular-boilerplate/</a>    <br/>
