@@ -3,6 +3,7 @@ import { ThemeList, ThemeService } from '@core/services/theme';
 import { ROUTER_UTILS } from '@core/utils/router.utils';
 import { CountUpModule } from 'ngx-countup';
 
+
 @Component({
   templateUrl: './home.page.html',
   styleUrls: ['./home.page.css'],
@@ -10,6 +11,7 @@ import { CountUpModule } from 'ngx-countup';
 export class HomePage implements OnInit {
   path = ROUTER_UTILS.config;
   theme = ThemeList;
+
 
   constructor(private themeService: ThemeService) {}
 
