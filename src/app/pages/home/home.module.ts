@@ -3,12 +3,14 @@ import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { HomePage } from './home.page';
 import { CountUpModule } from 'ngx-countup';
+import { NgxPageScrollModule } from 'ngx-page-scroll';
 
 @NgModule({
   declarations: [HomePage],
   imports: [
     CountUpModule,
     CommonModule,
+    NgxPageScrollModule,
     RouterModule.forChild([
       {
         path: '',
