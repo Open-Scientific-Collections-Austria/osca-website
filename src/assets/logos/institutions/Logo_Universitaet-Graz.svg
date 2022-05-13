@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 932.23373 792.93563"
+   version="1.1"
+   sodipodi:docname="Logo_Universitaet-Graz.svg"
+   width="233.05843"
+   height="198.2339"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1273"
+     inkscape:window-height="1011"
+     id="namedview29"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.6634231"
+     inkscape:cx="-147.26777"
+     inkscape:cy="-137.12974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}.cls-2{fill:#c6c6c6;}.cls-3{fill:#ffd500;}.cls-4{fill:#1d1d1b;}</style>
+  </defs>
+  <rect
+     class="cls-2"
+     x="0"
+     y="-2.8421709e-14"
+     width="932.2337"
+     height="792.93561"
+     id="rect8"
+     style="fill:#c6c6c6;stroke-width:1" />
+  <rect
+     class="cls-3"
+     x="318.76306"
+     y="40.838394"
+     width="572.63226"
+     height="574.31061"
+     id="rect10"
+     style="fill:#ffd500;stroke-width:1" />
+  <path
+     class="cls-4"
+     d="M 653.19013,540.07344 V 456.7185 h -41.39781 v 77.20131 a 27.30017,27.30017 0 0 1 -26.74076,30.43298 c -15.7759,0 -26.74074,-11.18863 -26.74074,-30.43298 V 456.7185 h -41.3978 v 83.24299 a 68.138536,68.138536 0 0 0 136.05334,0"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#1d1d1b;stroke-width:1" />
+  <polygon
+     class="cls-4"
+     points="82.55,55.44 82.55,61.28 75.83,55.2 74.79,55.2 74.78,68.38 78.47,68.38 78.47,62.54 85.09,68.55 86.22,68.55 86.22,55.44 "
+     id="polygon14"
+     style="fill:#1d1d1b;stroke-width:0.08937673"
+     transform="matrix(11.188594,0,0,11.188594,-163.57727,-163.57721)" />
+  <rect
+     class="cls-4"
+     x="823.25671"
+     y="456.71848"
+     width="41.174026"
+     height="144.66852"
+     id="rect16"
+     style="fill:#1d1d1b;stroke-width:1" />
+  <rect
+     class="cls-4"
+     x="318.76306"
+     y="615.14911"
+     width="572.63226"
+     height="136.83649"
+     id="rect18"
+     style="fill:#1d1d1b;stroke-width:1" />
+  <rect
+     class="cls-1"
+     x="40.838364"
+     y="40.838394"
+     width="277.92468"
+     height="711.14703"
+     id="rect20"
+     style="fill:#ffffff;stroke-width:1" />
+  <polygon
+     class="cls-3"
+     points="88.89,72.4 85.67,72.4 85.67,70.63 91.88,70.63 91.88,71.06 88.48,76.36 91.88,76.36 91.88,78.13 85.62,78.13 85.62,77.55 "
+     id="polygon22"
+     style="fill:#ffd500;stroke-width:0.08937673"
+     transform="matrix(11.188594,0,0,11.188594,-163.57727,-163.57721)" />
+  <path
+     class="cls-3"
+     d="m 733.07668,678.81202 9.51031,-22.3771 9.06278,22.3771 z M 658.22497,666.3928 H 643.7917 v -19.91577 h 14.43327 c 8.95088,0 11.1886,4.47538 11.1886,9.84593 0,5.37048 -2.68525,10.06984 -11.1886,10.06984 m 87.49485,-40.50279 h -5.37056 l -43.63551,82.34793 -19.91569,-28.19525 A 23.496047,23.496047 0 0 0 691.567,656.32296 29.20223,29.20223 0 0 0 660.46272,626.67317 h -40.05519 v 83.91445 h 23.38417 v -23.83175 h 12.64309 l 16.22348,24.39122 h 47.66341 l 6.93692,-14.54529 h 30.99246 l 7.04882,14.54529 h 24.39115 z"
+     id="path24"
+     inkscape:connector-curvature="0"
+     style="fill:#ffd500;stroke-width:1" />
+  <path
+     class="cls-3"
+     d="m 604.07219,671.98697 a 43.187972,43.187972 0 0 1 -86.26409,-3.24479 44.754375,44.754375 0 0 1 79.43905,-25.73354 l -17.11856,12.08365 a 20.922671,20.922671 0 0 0 -18.12552,-9.62232 22.93665,22.93665 0 1 0 0,45.8733 c 11.85992,0 18.46119,-4.92297 20.02759,-11.18863 h -13.65009 v -15.10446 h 35.69162 z"
+     id="path26"
+     inkscape:connector-curvature="0"
+     style="fill:#ffd500;stroke-width:1" />
+</svg>
