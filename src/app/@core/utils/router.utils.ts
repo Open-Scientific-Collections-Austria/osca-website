@@ -3,6 +3,7 @@ export const ROUTER_UTILS = {
     base: {
       home: '',
       dashboard: 'dashboard',
+      klausur: 'klausur',
     },
     auth: {
       root: 'auth',

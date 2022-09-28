@@ -21,6 +21,11 @@ const APP_ROUTES: Routes = [
     loadChildren: async () =>
       (await import('@pages/home/home.module')).HomeModule,
   },
+    {
+    path: ROUTER_UTILS.config.base.klausur,
+    loadChildren: async () =>
+      (await import('@pages/klausur/klausur.module')).KlausurModule,
+  },
   {
     path: ROUTER_UTILS.config.base.dashboard,
     loadChildren: async () =>
