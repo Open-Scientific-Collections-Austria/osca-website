@@ -16,6 +16,7 @@ h6,
 .display-4 {
   @apply font-display;
   @apply mt-0;
+  color: #8e8074; 
 }
 
 h1,

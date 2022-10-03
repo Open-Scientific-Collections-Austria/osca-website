@@ -12,3 +12,6 @@ body.dark {
   @apply bg-neutral-900;
   @apply text-neutral-50;
 }
+hr {
+  color:#8e8074;
+}

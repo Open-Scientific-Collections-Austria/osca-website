@@ -8,6 +8,7 @@
   @apply cursor-pointer;
   @apply transition-all duration-300 ease-out;
   @apply will-change-transform;
+  color:#8e8074;
 }
 
 .btn:focus {
